@@ -1,0 +1,24 @@
+# Compiled files
+*.class
+*.log
+
+# Build folders
+/target/
+/build/
+/bin/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
