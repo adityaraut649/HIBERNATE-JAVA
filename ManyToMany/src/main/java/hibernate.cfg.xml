@@ -17,7 +17,7 @@
         </property>
 
         <property name="hibernate.connection.password">
-            Aditya@123
+            "Your Password"
         </property>
 
         <!-- Hibernate Settings -->
